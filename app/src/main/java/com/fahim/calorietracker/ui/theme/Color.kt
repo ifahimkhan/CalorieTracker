@@ -2,6 +2,7 @@ package com.fahim.calorietracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+
 val BrightGreen = Color(0xFF00C713)
 val DarkGreen = Color(0xFF00790C)
 val Orange =  Color(0xFFFFAA00)
